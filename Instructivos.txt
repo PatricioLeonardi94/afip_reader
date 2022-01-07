@@ -1,0 +1,18 @@
+Instructivos:
+
+Pasos previos:
+1- Verifique de tener una carpeta con los nombres de los clientes (Ejemplo: Amilivia Gaston)
+2- Internamente de la carpeta de cada cliente agregar una carpeta con el año (Ejemplo: 2021)
+3- Internamente crear una carpeta por mes (Ejemplo: Enero)
+4- Internamente se colocara el archivo .zip de duplicado de facturas electoronicas que genera la pagina de AFIP.
+
+Ejecutar programa:
+1- Le pedira ingresar un mes (Ejemplo: Enero)
+2- Le pedira ingresar el año (Ejemplo: 2021)
+3- Le pedira seleccionar la carpeta, en este caso seleccionamos la carpeta que internamente posee la carpeta de los clientes.
+4- El programa abrira el archivo .zip, leera la informacion del archivo cabecera y automaticamente crea un excel con la informacion
+de las ventas por mes del mismo.
+
+
+Aclaraciones:
+1- No modificar los nombres de los archivos existentes en la carpeta

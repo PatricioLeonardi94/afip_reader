@@ -1,0 +1,28 @@
+{
+    "modelos":[
+        {
+            "name": "row modelos.xlsx",
+            "sheet": "Normal"
+        },
+        {
+            "name": "row modelos.xlsx",
+            "sheet": "Special"
+        }
+    ],
+    "facturas":[
+        {
+            "name": "modelos.xlsx",
+            "sheet": "Modelos"
+        }
+    ],
+    "archivos":[
+        {
+            "name" : "CABECERA.txt"
+        }
+    ],
+    "fileExtension":[
+        {
+            "name" : ".zip"
+        }
+    ]
+}
