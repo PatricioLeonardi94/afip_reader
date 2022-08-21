@@ -3,6 +3,14 @@ from tkinter import *
 from tkinter import Tk, filedialog
 import json
 
+
+{
+    "dateIni":"01/05/2022",
+    "dateEnd":"31/05/2022",
+    "month":"febrero",
+    "year":"2022"
+}
+
 root = Tk()
 root.withdraw()
 
@@ -20,7 +28,7 @@ rarReader = classes.rarReader(data["month"], data["year"])
 rarReader.loopFolder(file_path)
 
 
-#  01/11/2021
-#  30/11/2021
-# Noviembre
-# 2021
+#  01/01/2022
+#  31/01/2022
+# enero
+# 2022
