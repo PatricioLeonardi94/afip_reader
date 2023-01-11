@@ -4,7 +4,6 @@ import pyautogui as gui
 import numpy as np
 from tkinter.filedialog import askopenfilename, asksaveasfile, askdirectory
 import json
-import patoolib
 import os
 
 
